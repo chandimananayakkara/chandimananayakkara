@@ -49,8 +49,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Chandima's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=radical&hide_border=true&background=0D1117" alt="Chandima's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <hr/>
