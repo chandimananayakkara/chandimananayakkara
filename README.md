@@ -55,8 +55,10 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chandimananayakkara/chandimananayakkara/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/chandimananayakkara/chandimananayakkara/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
 </div>
+
+<br/>
 
 ### 📊 GitHub Analytics
 
