@@ -58,24 +58,8 @@
 <div align="center">
   <p>Feel free to reach out for collaborations, testing strategies, or just to say hi!</p>
   <a href="https://www.linkedin.com/in/chandima-nanayakkara-394994403/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- ඔයාට Email එක දාන්න ඕනෙ නම් පහල line එකේ තියෙන email address එක වෙනස් කරලා කෝඩ් එකේ තියාගන්න. නැත්නම් ඒක මකන්න -->
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:chandimananayakkara94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 
-<div align="center">
-  <p><b>1. Tokyo Night (ලස්සන Dark Blue/Purple පාටක්)</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=tokyonight&hide_border=true" />
 
-  <p><b>2. Dracula (ගොඩක් අය පාවිච්චි කරන Dark Theme එකක්)</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=dracula&hide_border=true" />
-
-  <p><b>3. One Dark (Atom Editor එකේ වගේ ලස්සන කළු පාටක්)</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=onedark&hide_border=true" />
-
-  <p><b>4. GitHub Dark (GitHub එකේ Official Dark Theme පාට)</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=github_dark&hide_border=true" />
-
-  <p><b>5. Radical (දැනට ඔයාගේ Profile එකේ තියෙන පාට)</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=radical&hide_border=true" />
-</div>
