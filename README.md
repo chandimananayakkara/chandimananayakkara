@@ -46,6 +46,10 @@
 
 <hr/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chandimananayakkara/chandimananayakkara/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -57,6 +61,7 @@
 
 <div align="center">
   <p>Feel free to reach out for collaborations, testing strategies, or just to say hi!</p>
+  <a href="ඔයාගේ_Website_Link_එක_මෙතන_දාන්න"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/chandima-nanayakkara-394994403/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chandimananayakkara94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
