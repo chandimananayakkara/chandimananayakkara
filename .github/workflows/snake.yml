@@ -2,13 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # හැමදාම රෑ 12ට මේක ඉබේම Run වෙනවා
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# මෙතනින් තමයි Action එකට file එක save කරන්න අවසර දෙන්නේ
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # මුලින්ම repository එකට connect වෙනවා
+      - uses: actions/checkout@v3
+
+      # සර්පයගේ පින්තූරය හදනවා
       - uses: Platane/snk@v3
         with:
           github_user_name: chandimananayakkara
@@ -16,6 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
+      # හැදුව පින්තූරය 'output' කියන branch එකට save කරනවා
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
