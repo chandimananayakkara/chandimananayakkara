@@ -65,17 +65,17 @@
 
 <div align="center">
   <p><b>1. Tokyo Night (ලස්සන Dark Blue/Purple පාටක්)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=tokyonight&hide_border=true" />
 
   <p><b>2. Dracula (ගොඩක් අය පාවිච්චි කරන Dark Theme එකක්)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=dracula&hide_border=true&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=dracula&hide_border=true" />
 
   <p><b>3. One Dark (Atom Editor එකේ වගේ ලස්සන කළු පාටක්)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=onedark&hide_border=true&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=onedark&hide_border=true" />
 
   <p><b>4. GitHub Dark (GitHub එකේ Official Dark Theme පාට)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=github_dark&hide_border=true&v=2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=github_dark&hide_border=true" />
 
-  <p><b>5. Transparent (Background එකක් නෑ. අකුරු විතරක් පේනවා)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&bg_color=00000000&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&v=2" />
+  <p><b>5. Radical (දැනට ඔයාගේ Profile එකේ තියෙන පාට)</b></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandimananayakkara&theme=radical&hide_border=true" />
 </div>
