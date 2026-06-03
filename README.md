@@ -61,3 +61,21 @@
   <!-- ඔයාට Email එක දාන්න ඕනෙ නම් පහල line එකේ තියෙන email address එක වෙනස් කරලා කෝඩ් එකේ තියාගන්න. නැත්නම් ඒක මකන්න -->
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
+
+<div align="center">
+  <p><b>1. Tokyo Night (ලස්සන Dark Blue/Purple පාටක්)</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+
+  <p><b>2. Dracula (ගොඩක් අය පාවිච්චි කරන Dark Theme එකක්)</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=dracula&hide_border=true&v=2" />
+
+  <p><b>3. One Dark (Atom Editor එකේ වගේ ලස්සන කළු පාටක්)</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=onedark&hide_border=true&v=2" />
+
+  <p><b>4. GitHub Dark (GitHub එකේ Official Dark Theme පාට)</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&theme=github_dark&hide_border=true&v=2" />
+
+  <p><b>5. Transparent (Background එකක් නෑ. අකුරු විතරක් පේනවා)</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandimananayakkara&show_icons=true&bg_color=00000000&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&v=2" />
+</div>
