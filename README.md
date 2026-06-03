@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Chandima+Nanayakkara+%F0%9F%91%8B;QA+Automation+Engineer;Expert+in+UI,+API+&+Performance+Testing;Building+Robust+CI%2FCD+Pipelines" alt="Typing Animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" alt="Coding Animation" />
-</div>
+</div> -->
 
 <br/>
 
@@ -50,9 +50,9 @@
 
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandimananayakkara&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/chandimananayakkara/chandimananayakkara/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
